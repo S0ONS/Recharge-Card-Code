@@ -1,2 +1,6 @@
-# Recharge-Card-Code
-This script help in generating card codes for any Network
+# Recharge Card Code Maker
+
+This script was made for fun only!
+
+## Usage
+
